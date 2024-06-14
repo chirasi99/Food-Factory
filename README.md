@@ -21,6 +21,7 @@
 - Testing the full application locally
 
 
+
 ## User Authentication
 - Implement user authentication and authorization using Spring Security and JWT in the backend.
 - Implement login and registration forms in the frontend.
