@@ -19,7 +19,6 @@
 ### 4. Integration and Deployment
 - Connecting the Angular frontend to the Spring Boot backend
 - Testing the full application locally
-- Deploying the application to a cloud platform (optional)
 
 
 ## User Authentication
